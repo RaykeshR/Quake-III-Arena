@@ -3,7 +3,7 @@ Quake-III-Arena/code/game/q_math.c
 --- 
 
 Pour le Code Fast inverse square root (Racine carrée inverse rapide)
-
+Ligne 550
 
 
 Quake III Arena GPL source release
